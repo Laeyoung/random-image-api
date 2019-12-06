@@ -1,8 +1,4 @@
-# random-image-api
-[![GitHub License](https://img.shields.io/github/license/OblivionSan/random-image-api.svg?style=flat-square)](https://github.com/OblivionSan/random-image-api/blob/master/LICENSE)
-[![GitHub Stars](https://img.shields.io/github/stars/OblivionSan/random-image-api.svg?style=flat-square)](https://github.com/OblivionSan/random-image-api/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/OblivionSan/random-image-api.svg?style=flat-square)](https://github.com/OblivionSan/random-image-api/network)
-[![GitHub issues](https://img.shields.io/github/issues/OblivionSan/random-image-api.svg?style=flat-square)](https://github.com/OblivionSan/random-image-api/issues)
+[![Run on Ainize](https://ainize.ai/static/images/run_on_ainize_button.svg)](https://ainize.web.app/redirect?git_repo=github.com/Laeyoung/random-image-api)
 
 > A simple random-image-api written in PHP.
 
