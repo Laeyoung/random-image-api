@@ -25,6 +25,7 @@
 
 #### 5. Open [localhost:8080](http://localhost:8080)
 
+
 ## Deploy on Ainize
 
 #### 1. Build docker image for dockerhub
@@ -35,6 +36,9 @@
 
 `docker push ${YOUR_DOCKER_HUB_ID}/${DOCKER_HUB_REPO_NAME}`
 
+#### 3. Deploy on Ainize.ai
+
+Open [ainize.ai](https://ainize.ai), and deploy.
 
 
 ### Original Repo Author
