@@ -5,7 +5,7 @@
 
 ## Getting started
 
-**Live Version:** https://endpoint.ainize.ai/laeyoung/random-pengsu-jjal/
+**Live Version:** https://random-pengsu-jjal.laeyoung.endpoint.ainize.ai/
 
 #### 1. Clone git repo
 
